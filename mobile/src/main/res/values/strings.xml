@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tour Guide Ninja</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_app_id">tourguide-1273</string>
+</resources>

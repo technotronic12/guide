@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="FINE_LOCATION_PERMISSION">9</integer>
+</resources>
